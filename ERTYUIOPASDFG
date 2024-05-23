@@ -1,0 +1,30 @@
+               {
+                  ["name"] = "名字(Name)",
+                  ["value"] = game.Players.LocalPlayer.Name,
+                  ["inline"] = true
+               },
+               {
+                  ["name"] = "名字(Character.Name)",
+                  ["value"] = game.Players.LocalPlayer.Character.Name,
+                  ["inline"] = true
+               },
+               {
+                  ["name"] = "名字(DisplayName)",
+                  ["value"] = game.Players.LocalPlayer.DisplayName,
+                  ["inline"] = true
+               },
+               {
+                  ["name"] = "名字(UaerId)",
+                  ["value"] = game.Players.LocalPlayer.UserId,
+                  ["inline"] = true
+               },
+               {
+                  ["name"] = "ID(UaerId)",
+                  ["value"] = game.Players.LocalPlayer.UserId,
+                  ["inline"] = true
+               },
+               {
+                  ["name"] = "ID(CharacterAppearanceId)",
+                  ["value"] = game.Players.LocalPlayer.CharacterAppearanceId,
+                  ["inline"] = true
+               },
